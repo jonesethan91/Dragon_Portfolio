@@ -1817,6 +1817,8 @@
     <Content Include="Content\ionicons.min.css" />
     <Content Include="Content\style.css" />
     <Content Include="Images\apple-touch-icon.png" />
+    <Content Include="Images\bugtracker-thumb-1.jpg" />
+    <Content Include="Images\coke-fizz.jpg" />
     <Content Include="Images\counters-bg.jpg" />
     <Content Include="Images\favicon.png" />
     <Content Include="Images\intro-bg - Copy.jpg" />
@@ -1827,12 +1829,15 @@
     <Content Include="Images\logo-skype.svg" />
     <Content Include="Images\logo-twitter.svg" />
     <Content Include="Images\overlay-bg.jpg" />
+    <Content Include="Images\photo- pc.png" />
+    <Content Include="Images\photo-bootstrap.jpg" />
     <Content Include="Images\portfolio-details-1.jpg" />
     <Content Include="Images\portfolio-details-2.jpg" />
     <Content Include="Images\portfolio-details-3.jpg" />
     <Content Include="Images\post-1.jpg" />
     <Content Include="Images\post-2.jpg" />
     <Content Include="Images\post-3.jpg" />
+    <Content Include="Images\taco-cat.gif" />
     <Content Include="Images\testimonial-2.jpg" />
     <Content Include="Images\testimonial-4.jpg" />
     <Content Include="Images\work-1.jpg" />
