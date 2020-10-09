@@ -1849,6 +1849,7 @@
     <Content Include="Images\work-4.jpg" />
     <Content Include="Images\work-5.jpg" />
     <Content Include="Images\work-6.jpg" />
+    <Content Include="Images\wtf.png" />
     <Content Include="Index.html" />
     <Content Include="logo-facebook.svg" />
     <Content Include="logo-github.svg" />
